@@ -1,0 +1,16 @@
+{
+"companyName": "ELC Games",
+"productName": "Space Bar Game",
+"productVersion": "0.1",
+"dataUrl": "Spacebar game.data.unityweb",
+"wasmCodeUrl": "Spacebar game.wasm.code.unityweb",
+"wasmFrameworkUrl": "Spacebar game.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.19f1"
+}
